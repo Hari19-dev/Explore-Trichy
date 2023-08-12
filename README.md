@@ -1,2 +1,4 @@
 # Explore-Trichy
-Trichy-Pj is about places to explore in trichy
+Trichy-Pj is about place
+
+LINK: https://exploretrichy45.vercel.app/
